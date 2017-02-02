@@ -1,10 +1,10 @@
 ﻿using System.Numerics;
 
-namespace CodeWars.CSharp._8kyu
+namespace CodeWars.CSharp._8kyu.PowersOf2
 {
     // Powers of 2
     // https://www.codewars.com/kata/57a083a57cb1f31db7000028
-    public class PowersOf2
+    public class Kata
     {
         public static BigInteger[] PowersOfTwo(int n)
         {

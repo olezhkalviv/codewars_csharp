@@ -1,8 +1,8 @@
-﻿namespace CodeWars.CSharp._8kyu
+﻿namespace CodeWars.CSharp._8kyu.BasicMathematicalOperations
 {
     // Basic Mathematical Operations
     // https://www.codewars.com/kata/57356c55867b9b7a60000bd7
-    public class BasicMathematicalOperations
+    public static class Program
     {
         public static double basicOp(char op, double val1, double val2)
         {

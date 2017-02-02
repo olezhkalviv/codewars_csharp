@@ -1,8 +1,8 @@
-﻿namespace CodeWars.CSharp._8kyu
+﻿namespace CodeWars.CSharp._8kyu.PreFizzBuzzWorkout1
 {
     // Pre-FizzBuzz Workout #1
     // https://www.codewars.com/kata/569e09850a8e371ab200000b
-    public class PreFizzBuzzWorkout1
+    public class Kata
     {
         public static int[] PreFizz(int n)
         {

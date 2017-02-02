@@ -1,8 +1,8 @@
-﻿namespace CodeWars.CSharp._8kyu
+﻿namespace CodeWars.CSharp._8kyu.KeepUpTheHoop
 {
     // Keep up the hoop
     // https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145
-    public class KeepUpTheHoop
+    public class Kata
     {
         public static string HoopCount(int n)
         {
