@@ -8,7 +8,7 @@ namespace CodeWars.CSharp._8kyu.StriveMatching1
         public int MinSalary;
     }
 
-    // This class is added to avoid errors, as Candidate class is described in CodeWars directly, so don't use it.
+    // This class is added to avoid errors, as Job class is described in CodeWars directly, so don't use it.
     public class Job
     {
         public int MaxSalary;
