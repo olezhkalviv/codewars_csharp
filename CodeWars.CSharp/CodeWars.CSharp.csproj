@@ -32,6 +32,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,7 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="8kyu\BasicMathematicalOperations.cs" />
+    <Compile Include="8kyu\DoubleChar.cs" />
+    <Compile Include="8kyu\EvenOrOdd.cs" />
+    <Compile Include="8kyu\KeepUpTheHoop.cs" />
     <Compile Include="8kyu\Multiply.cs" />
+    <Compile Include="8kyu\NumberOfPeopleInTheBus.cs" />
+    <Compile Include="8kyu\PowersOf2.cs" />
+    <Compile Include="8kyu\PreFizzBuzzWorkout1.cs" />
+    <Compile Include="8kyu\ReversingWordsInAString.cs" />
+    <Compile Include="8kyu\StringRepeat.cs" />
+    <Compile Include="8kyu\ToSquareRootOrNotToSquareRoot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
