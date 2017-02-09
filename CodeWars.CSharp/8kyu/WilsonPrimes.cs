@@ -6,7 +6,7 @@
     {
         public static bool AmIWilson(int p)
         {
-            return (p == 5 || p == 13 || p == 563) ? true : false;
+            return (p == 5 || p == 13 || p == 563);
         }
     }
 }
