@@ -56,6 +56,7 @@
     <Compile Include="8kyu\GrasshopperBugSquashing.cs" />
     <Compile Include="8kyu\GrasshopperGradeBook.cs" />
     <Compile Include="8kyu\GrasshopperMessiGoals.cs" />
+    <Compile Include="8kyu\HowOldWillIBeIn2099.cs" />
     <Compile Include="8kyu\KeepUpTheHoop.cs" />
     <Compile Include="8kyu\LocalizeTheBarycenterOfATriangle.cs" />
     <Compile Include="8kyu\Multiply.cs" />
