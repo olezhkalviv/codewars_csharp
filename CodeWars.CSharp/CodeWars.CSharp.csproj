@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="8kyu\AddMoreItemToListBugFixes.cs" />
     <Compile Include="8kyu\AreYouPlayingBanjo.cs" />
     <Compile Include="8kyu\BasicMathematicalOperations.cs" />
     <Compile Include="8kyu\CalculateAverage.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="8kyu\EvenOrOdd.cs" />
     <Compile Include="8kyu\FakeBinary.cs" />
     <Compile Include="8kyu\FilteringEvenNumbersBugFixes.cs" />
+    <Compile Include="8kyu\FinishGuessTheNumberGame.cs" />
     <Compile Include="8kyu\Function1HelloWorld.cs" />
     <Compile Include="8kyu\GrasshopperArrayMean.cs" />
     <Compile Include="8kyu\GrasshopperBugSquashing.cs" />
@@ -60,11 +62,13 @@
     <Compile Include="8kyu\KeepUpTheHoop.cs" />
     <Compile Include="8kyu\LocalizeTheBarycenterOfATriangle.cs" />
     <Compile Include="8kyu\Multiply.cs" />
+    <Compile Include="8kyu\NoZerosForHeros.cs" />
     <Compile Include="8kyu\NumberOfPeopleInTheBus.cs" />
     <Compile Include="8kyu\OnlineRpgPlayerToQualifyingStage.cs" />
     <Compile Include="8kyu\PlayingWithCubes.cs" />
     <Compile Include="8kyu\PowersOf2.cs" />
     <Compile Include="8kyu\PreFizzBuzzWorkout1.cs" />
+    <Compile Include="8kyu\RegexCountLowercaseLetters.cs" />
     <Compile Include="8kyu\RegularBallSuperBall.cs" />
     <Compile Include="8kyu\ReturnNegative.cs" />
     <Compile Include="8kyu\ReversingWordsInAString.cs" />
@@ -72,6 +76,7 @@
     <Compile Include="8kyu\SmallestUnusedId.cs" />
     <Compile Include="8kyu\StringRepeat.cs" />
     <Compile Include="8kyu\StriveMatching1.cs" />
+    <Compile Include="8kyu\SubtractTheSum.cs" />
     <Compile Include="8kyu\SwitchCaseBugFixing6.cs" />
     <Compile Include="8kyu\TakeAnArrowToTheKneeFunctionally.cs" />
     <Compile Include="8kyu\TemplateStrings.cs" />
